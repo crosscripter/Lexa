@@ -1,4 +1,4 @@
-# Lexa
+# Lexa ლ(◉‿◉ ლ)
 Scanner? Lexer? Lexical Scanner?? 👀 No, It's just a simple Lexa 
 
 ## About
@@ -15,6 +15,6 @@ lex(`g.x[4] = ({a: [3].length})`)
 ```
 
 ## Benchmarks ##
-Fast enough for me! I've even seen her lex **10,000** lines of code in about 170ms!
+Fast enough for me! I've even seen her lex **10,000** lines of code in ~170 **milli**seconds!
 
 ![image](https://github.com/crosscripter/Lexa/assets/315043/ba6b6e24-fdd7-4f65-a81c-765a36c3e3f2)
